@@ -20,16 +20,18 @@
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
-                    <td>&nbsp;</td>
-                    <td>&nbsp;</td>
-                </tr>
-                <tr>
                     <td>
                         <asp:Label ID="Label1" runat="server" Text="name"></asp:Label>
                     </td>
                     <td>
                         <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label>
                     </td>
+                </tr>
+                <tr>
+                    <td>
+                        &nbsp;</td>
+                    <td>
+                        &nbsp;</td>
                 </tr>
                 <tr>
                     <td>
